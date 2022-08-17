@@ -13,7 +13,7 @@
           "deprecated": false,
           "category": "Contributed",
           "url": "https://github.com/ErictronicsGH/CanSAT-GH/blob/main/Nyarkoa-Payload-0.0.1.zip?raw=true",
-          "archiveFileName": "avr-1.8.5.tar.bz2",
+          "archiveFileName": "Nyarkoa-Payload-0.0.1.zip",
           "checksum": "SHA-256:aba9b7e356a74c86354c3758629d909d60f38f3812d8e3d9004a95fb3963c56b",
           "size": 8376320,
           "boards": [
