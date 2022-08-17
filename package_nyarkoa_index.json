@@ -12,10 +12,10 @@
           "version": "0.0.1",
           "deprecated": false,
           "category": "Contributed",
-          "url": "http://downloads.arduino.cc/cores/staging/avr-1.8.5.tar.bz2",
+          "url": "https://github.com/ErictronicsGH/Can-SAT/blob/main/Nyarkoa-Payload-0.0.1.zip?raw=true",
           "archiveFileName": "avr-1.8.5.tar.bz2",
-          "checksum": "SHA-256:ca22143a3f5d32c4b693211d99aedce358e2e0a2ab90a58c05d3afc1b56436a4",
-          "size": 7160121,
+          "checksum": "SHA-256:aba9b7e356a74c86354c3758629d909d60f38f3812d8e3d9004a95fb3963c56b",
+          "size": 8376320,
           "boards": [
             {
               "name": "Nyarkoa Payload"
