@@ -14,8 +14,8 @@
           "category": "Contributed",
           "url": "https://github.com/ErictronicsGH/CanSAT-GH/blob/main/Nyarkoa-Payload-0.0.1.zip?raw=true",
           "archiveFileName": "Nyarkoa-Payload-0.0.1.zip",
-          "checksum": "SHA-256:aba9b7e356a74c86354c3758629d909d60f38f3812d8e3d9004a95fb3963c56b",
-          "size": 8376320,
+          "checksum": "SHA-256:0a3567f37034180b9e63266d3e26f3c0d3537c9b83d1e3d22457f05e67ff43ac",
+          "size": 8168623,
           "boards": [
             {
               "name": "Nyarkoa Payload"
